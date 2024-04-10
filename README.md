@@ -7,7 +7,7 @@ Simple CLI interface: User-friendly interface for moving through the maze.
 Exit detection: Automatically detects when the player reaches the exit or if they are blocked.
 Error handling: Includes error handling for invalid moves and other potential errors.
 
-[Software Demo Video]([https://youtu.be/bbGbF9H0acM](https://youtu.be/2X17Xod8plA))
+[Software Demo Video](https://youtu.be/bbGbF9H0acM](https://youtu.be/2X17Xod8plA)
 
 # Development Environment
 C++ Programming Language
